@@ -1,4 +1,4 @@
-# Deploy to Heroku (as well as PythonAnywhere)
+# Montar en Heroku (asi como en PythonAnywhere)
 
 It's always good for a developer to have a couple of different deployment options under their belt.   Why not try deploying your site to Heroku, as well as PythonAnywhere?
 
